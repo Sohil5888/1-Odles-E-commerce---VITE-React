@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": "0928",
+      "name": "Sohil",
+      "email": "sohil@gmail.com",
+      "password": "123",
+      "role": "1"
+    },
+    {
+      "id": "3dff",
+      "name": "test1",
+      "email": "test1@gmail.com",
+      "password": "123",
+      "role": "2"
+    },
+    {
+      "id": "3d2b",
+      "name": "test3",
+      "email": "test3@gmail.com",
+      "password": "123",
+      "role": "2"
+    },
+    {
+      "id": "bfdd",
+      "name": "test3",
+      "email": "test3@gmail.com",
+      "password": "123",
+      "role": "2"
+    },
+    {
+      "id": "17bf",
+      "name": "test3",
+      "email": "test3@gmail.com",
+      "password": "123",
+      "role": "2"
+    }
+  ]
+}
