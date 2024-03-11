@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "1dc6",
+      "name": "Odles111111",
+      "email": "Odles111111@gmail.com",
+      "password": "1232456",
+      "role": 2
+    },
+    {
+      "id": "baa2",
+      "name": "urteqi",
+      "email": "urteqi@gmail.com",
+      "password": "123456",
+      "role": 2
+    },{
+      "name": "Odles",
+      "email": "Odles3@gmail.com",
+      "password": "123",
+      "id": "6d52",
+      "role": 1
+    }
+  ]
+}
